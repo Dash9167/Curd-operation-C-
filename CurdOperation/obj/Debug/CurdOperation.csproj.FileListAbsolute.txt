@@ -1,0 +1,10 @@
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.csproj.AssemblyReference.cache
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.Form1.resources
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.Properties.Resources.resources
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.csproj.GenerateResource.cache
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.csproj.CoreCompileInputs.cache
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\bin\Debug\CurdOperation.exe.config
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\bin\Debug\CurdOperation.exe
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\bin\Debug\CurdOperation.pdb
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.exe
+C:\Users\Dashrath\source\repos\CurdOperation\CurdOperation\obj\Debug\CurdOperation.pdb
